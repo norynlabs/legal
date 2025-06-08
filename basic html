@@ -1,0 +1,30 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Noryn Labs</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; background: #fafafa; }
+    h1 { color: #333; }
+    .cta { background: #007aff; color: white; padding: 1rem; text-decoration: none; display: inline-block; border-radius: 8px; }
+    .section { margin-top: 2rem; }
+  </style>
+</head>
+<body>
+  <h1>Noryn Labs</h1>
+  <p>We build discreet digital tools for modern safety and peace of mind.</p>
+
+  <div class="section">
+    <h2>Fenra App</h2>
+    <p>Fake calls, messages, emergency GPS alerts — all in one secure app.</p>
+    <a class="cta" href="https://testflight.apple.com/join/your-beta-link">Join Fenra Beta</a>
+  </div>
+
+  <div class="section">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:hello@norynlabs.com">hello@norynlabs.com</a></p>
+  </div>
+</body>
+</html>
